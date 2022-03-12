@@ -1,0 +1,13 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.11.0",
+    "libraryName": "praxeum-site-0001",
+    "libraryId": "6cdb5262-0c6d-46cd-8830-231395423770",
+    "environment": "spo",
+    "packageManager": "npm",
+    "framework": "none",
+    "isCreatingSolution": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
